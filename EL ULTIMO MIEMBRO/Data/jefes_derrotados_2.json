@@ -1,0 +1,42 @@
+{
+  "MonarcaDerrotado": false,
+  "ArmaduraMalditaDestruida": false,
+  "FaraonVencido": false,
+  "DiosaAguaDerrotada": true,
+  "MinotauroJefeDerrotado": true,
+  "DragonDerrotado": true,
+  "JefeFinalDerrotado": true,
+  "CambiosTerreno": {},
+  "CambiosObjetos": {
+    "victoria_diosa_agua_portal": [
+      {
+        "IsEmpty": false,
+        "X": 250,
+        "Y": 259
+      }
+    ],
+    "victoria_minotauro_jefe_portal": [
+      {
+        "IsEmpty": false,
+        "X": 147,
+        "Y": 65
+      }
+    ],
+    "victoria_dragon_portal": [
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 130
+      }
+    ],
+    "victoria_jefe_final_portal": [
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 246
+      }
+    ]
+  },
+  "UltimaActualizacion": "2025-11-16T18:36:16.3777762-06:00",
+  "JefesDerrotadosIds": []
+}

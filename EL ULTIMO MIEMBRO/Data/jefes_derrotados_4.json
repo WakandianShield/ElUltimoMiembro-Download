@@ -1,0 +1,105 @@
+{
+  "MonarcaDerrotado": true,
+  "ArmaduraMalditaDestruida": true,
+  "FaraonVencido": false,
+  "DiosaAguaDerrotada": true,
+  "MinotauroJefeDerrotado": false,
+  "DragonDerrotado": false,
+  "JefeFinalDerrotado": false,
+  "CambiosTerreno": {
+    "derrota_monarca_bloques_principal": [
+      {
+        "IsEmpty": false,
+        "X": 30,
+        "Y": 52
+      },
+      {
+        "IsEmpty": false,
+        "X": 30,
+        "Y": 53
+      },
+      {
+        "IsEmpty": false,
+        "X": 30,
+        "Y": 54
+      },
+      {
+        "IsEmpty": false,
+        "X": 31,
+        "Y": 52
+      },
+      {
+        "IsEmpty": false,
+        "X": 31,
+        "Y": 53
+      },
+      {
+        "IsEmpty": false,
+        "X": 31,
+        "Y": 54
+      },
+      {
+        "IsEmpty": false,
+        "X": 32,
+        "Y": 52
+      },
+      {
+        "IsEmpty": false,
+        "X": 32,
+        "Y": 53
+      },
+      {
+        "IsEmpty": false,
+        "X": 32,
+        "Y": 54
+      }
+    ],
+    "derrota_monarca_piedras": [
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 64
+      },
+      {
+        "IsEmpty": false,
+        "X": 49,
+        "Y": 64
+      },
+      {
+        "IsEmpty": false,
+        "X": 49,
+        "Y": 65
+      }
+    ],
+    "derrota_monarca_teletransporte": [
+      {
+        "IsEmpty": false,
+        "X": 49,
+        "Y": 66
+      },
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 66
+      }
+    ]
+  },
+  "CambiosObjetos": {
+    "victoria_diosa_agua_portal": [
+      {
+        "IsEmpty": false,
+        "X": 250,
+        "Y": 259
+      }
+    ],
+    "destruccion_armadura_portal": [
+      {
+        "IsEmpty": false,
+        "X": 261,
+        "Y": 153
+      }
+    ]
+  },
+  "UltimaActualizacion": "2025-11-17T15:20:40.6241285-06:00",
+  "JefesDerrotadosIds": []
+}

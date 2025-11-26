@@ -1,0 +1,101 @@
+{
+  "MonarcaDerrotado": true,
+  "ArmaduraMalditaDestruida": true,
+  "FaraonVencido": true,
+  "CambiosTerreno": {
+    "derrota_monarca_bloques_principal": [
+      {
+        "IsEmpty": false,
+        "X": 30,
+        "Y": 52
+      },
+      {
+        "IsEmpty": false,
+        "X": 30,
+        "Y": 53
+      },
+      {
+        "IsEmpty": false,
+        "X": 30,
+        "Y": 54
+      },
+      {
+        "IsEmpty": false,
+        "X": 31,
+        "Y": 52
+      },
+      {
+        "IsEmpty": false,
+        "X": 31,
+        "Y": 53
+      },
+      {
+        "IsEmpty": false,
+        "X": 31,
+        "Y": 54
+      },
+      {
+        "IsEmpty": false,
+        "X": 32,
+        "Y": 52
+      },
+      {
+        "IsEmpty": false,
+        "X": 32,
+        "Y": 53
+      },
+      {
+        "IsEmpty": false,
+        "X": 32,
+        "Y": 54
+      }
+    ],
+    "derrota_monarca_piedras": [
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 64
+      },
+      {
+        "IsEmpty": false,
+        "X": 49,
+        "Y": 64
+      },
+      {
+        "IsEmpty": false,
+        "X": 49,
+        "Y": 65
+      }
+    ],
+    "derrota_monarca_teletransporte": [
+      {
+        "IsEmpty": false,
+        "X": 49,
+        "Y": 66
+      },
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 66
+      }
+    ]
+  },
+  "CambiosObjetos": {
+    "destruccion_armadura_portal": [
+      {
+        "IsEmpty": false,
+        "X": 261,
+        "Y": 153
+      }
+    ],
+    "victoria_faraon_teletransportador": [
+      {
+        "IsEmpty": false,
+        "X": 150,
+        "Y": 228
+      }
+    ]
+  },
+  "UltimaActualizacion": "2025-11-16T13:09:07.7202684-06:00",
+  "JefesDerrotadosIds": []
+}

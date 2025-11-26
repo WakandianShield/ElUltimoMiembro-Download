@@ -1,0 +1,21 @@
+{
+  "MonarcaDerrotado": false,
+  "ArmaduraMalditaDestruida": false,
+  "FaraonVencido": false,
+  "DiosaAguaDerrotada": true,
+  "MinotauroJefeDerrotado": false,
+  "DragonDerrotado": false,
+  "JefeFinalDerrotado": false,
+  "CambiosTerreno": {},
+  "CambiosObjetos": {
+    "victoria_diosa_agua_portal": [
+      {
+        "IsEmpty": false,
+        "X": 250,
+        "Y": 259
+      }
+    ]
+  },
+  "UltimaActualizacion": "2025-11-17T14:50:05.0181099-06:00",
+  "JefesDerrotadosIds": []
+}

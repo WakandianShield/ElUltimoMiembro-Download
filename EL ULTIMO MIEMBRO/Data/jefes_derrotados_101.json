@@ -1,0 +1,24 @@
+{
+  "MonarcaDerrotado": false,
+  "ArmaduraMalditaDestruida": true,
+  "FaraonVencido": true,
+  "CambiosTerreno": {},
+  "CambiosObjetos": {
+    "victoria_faraon_teletransportador": [
+      {
+        "IsEmpty": false,
+        "X": 150,
+        "Y": 228
+      }
+    ],
+    "destruccion_armadura_portal": [
+      {
+        "IsEmpty": false,
+        "X": 261,
+        "Y": 153
+      }
+    ]
+  },
+  "UltimaActualizacion": "2025-11-15T20:23:22.6416302-06:00",
+  "JefesDerrotadosIds": []
+}

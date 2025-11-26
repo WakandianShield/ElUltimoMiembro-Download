@@ -1,0 +1,28 @@
+{
+  "MonarcaDerrotado": false,
+  "ArmaduraMalditaDestruida": true,
+  "FaraonVencido": false,
+  "DiosaAguaDerrotada": false,
+  "MinotauroJefeDerrotado": false,
+  "DragonDerrotado": false,
+  "JefeFinalDerrotado": true,
+  "CambiosTerreno": {},
+  "CambiosObjetos": {
+    "destruccion_armadura_portal": [
+      {
+        "IsEmpty": false,
+        "X": 261,
+        "Y": 153
+      }
+    ],
+    "victoria_jefe_final_portal": [
+      {
+        "IsEmpty": false,
+        "X": 50,
+        "Y": 246
+      }
+    ]
+  },
+  "UltimaActualizacion": "2025-11-20T02:13:57.9112392-06:00",
+  "JefesDerrotadosIds": []
+}
