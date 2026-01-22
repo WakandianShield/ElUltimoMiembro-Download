@@ -1,5 +1,9 @@
 # EL ÚLTIMO MIEMBRO — Instrucciones de Descarga y Ejecución
 
+![.NET](https://img.shields.io/badge/.NET%208.0-512BD4?logo=dotnet&logoColor=white&style=plastic)
+![C#](https://img.shields.io/badge/C%23-512AD5?logo=csharp&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
+
 Bienvenido al repositorio oficial de EL ÚLTIMO MIEMBRO, un juego desarrollado en C# que se distribuye como una carpeta ejecutable.
 
 ## 1. Descargar el Juego
