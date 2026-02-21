@@ -45,6 +45,8 @@ El juego debería iniciar inmediatamente.
 **No es necesario instalar frameworks, dependencias externas ni configurar nada adicional.**
 **No modifiques la estructura, ya que el juego carga sus recursos desde estas carpetas.**
 
+[![Ver video en YouTube](https://img.youtube.com/vi/oWEGBmD22DI/0.jpg)](https://www.youtube.com/watch?v=oWEGBmD22DI)
+
 
 ## Requerimientos Mínimos
 
