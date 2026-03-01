@@ -7,10 +7,15 @@
 </p>
 
 <p align="center">
+Embark on a thrilling RPG adventure where you create your character, explore maps, fight enemies in turn-based combat, and interact with NPCs, treasures, and shops. Your journey awaits!
+</p>
+
+<h2 align="center">Overview</h2>
+
+<p align="center">
 EL ÚLTIMO MIEMBRO is an immersive C# game built with .NET, distributed as a ready-to-run executable package. 
 Simply download the folder, extract it, and run the main executable to start playing instantly, no additional installation, configuration, or complex setup required.
 </p>
-
 
 <h2 align="center">Download</h2>
 
