@@ -14,15 +14,13 @@ Simply download the folder, extract it, and run the main executable to start pla
 
 <h2 align="center">Download</h2>
 
-<h3 align="center">Option 1 – Download from GitHub</h3>
+<h3 align="center">Option 1 – Download from <a href="https://github.com/WakandianShield/ElUltimoMiembro-Download/archive/refs/heads/main.zip">Github</a></h3>
 
 - Click the "Code" button
 - Select "Download ZIP"
 - Extract the .zip file
 - Open the folder
 - Run: `EL ULTIMO MIEMBRO.exe`
-
-
 
 <h3 align="center">Option 2 – Download from <a href="https://drive.google.com/file/d/1MRG6_07rIlKST8Kmzu1ny9fvSqIGEbot/view">Google Drive</a></h3>
 
