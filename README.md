@@ -1,60 +1,76 @@
-# EL ÚLTIMO MIEMBRO — Instrucciones de Descarga y Ejecución
+<h1 align="center">EL ÚLTIMO MIEMBRO</h1>
 
-![.NET](https://img.shields.io/badge/.NET%208.0-512BD4?logo=dotnet&logoColor=white&style=plastic)
-![C#](https://img.shields.io/badge/C%23-512AD5?logo=csharp&logoColor=white&style=plastic)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%208.0-512BD4?logo=dotnet&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/C%23-512AD5?logo=csharp&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic" />
+</p>
 
-Bienvenido al repositorio oficial de EL ÚLTIMO MIEMBRO, un juego desarrollado en C# que se distribuye como una carpeta ejecutable.
-
-## 1. Descargar el Juego
-
-Tienes dos opciones para obtener el juego:
-
-### Opción A: Descargar directamente desde GitHub
-
-- En la parte superior del repositorio, busca el botón Code.
-- Haz clic en Download ZIP.
-- Espera a que finalice la descarga.
-- Descomprime el archivo .zip.
-- Entra a la carpeta descomprimida y localiza el ejecutable del juego: EL-ULTIMO-MIEMBRO.exe
-- Solo ábrelo y el juego iniciará.
+<p align="center">
+EL ÚLTIMO MIEMBRO is an immersive C# game built with .NET, distributed as a ready-to-run executable package. 
+Simply download the folder, extract it, and run the main executable to start playing instantly, no additional installation, configuration, or complex setup required.
+</p>
 
 
-### Opción B: Descargar desde Google Drive
+<h2 align="center">Download</h2>
 
-Si prefieres descargarlo desde Google Drive, usa el siguiente enlace:
+<h3 align="center">Option 1 – Download from GitHub</h3>
 
-Google Drive:
-https://drive.google.com/file/d/1MRG6_07rIlKST8Kmzu1ny9fvSqIGEbot/view
-
-- Descarga el archivo desde el enlace.
-- Descomprime el .zip.
-- Abre la carpeta y ejecuta: EL-ULTIMO-MIEMBRO.exe
-- Solo ábrelo y el juego iniciará.
+- Click the "Code" button
+- Select "Download ZIP"
+- Extract the .zip file
+- Open the folder
+- Run: `EL ULTIMO MIEMBRO.exe`
 
 
-## 2. Ejecutar el Juego
 
-Una vez que tengas la carpeta completa:
+<h3 align="center">Option 2 – Download from <a href="https://drive.google.com/file/d/1MRG6_07rIlKST8Kmzu1ny9fvSqIGEbot/view">Google Drive</a></h3>
 
-- No muevas ni borres ninguna carpeta interna (recursos, saves, DLLs, etc.).
-- Busca el archivo ejecutable principal: EL-ULTIMO-MIEMBRO.exe
-- Doble clic para abrirlo.
-
-El juego debería iniciar inmediatamente.
-**No es necesario instalar frameworks, dependencias externas ni configurar nada adicional.**
-**No modifiques la estructura, ya que el juego carga sus recursos desde estas carpetas.**
-
-[![Ver video en YouTube](https://img.youtube.com/vi/oWEGBmD22DI/0.jpg)](https://www.youtube.com/watch?v=oWEGBmD22DI)
+- Download the .zip file  
+- Extract it  
+- Open the folder  
+- Run: `EL ULTIMO MIEMBRO.exe`
 
 
-## Requerimientos Mínimos
+<h2 align="center">How to Run</h2>
 
-- Windows 10/11
-- .NET Runtime (si tu PC ya tiene juegos similares, normalmente ya viene instalado)
-- 2 GB RAM
-- 200 MB de espacio libre
+<p align="center">
+    After extracting the folder:
+</p>
 
-## Soporte y Feedback
-Si encuentras errores, problemas o quieres sugerir mejoras, puedes abrir un Issue en este repositorio.
-¡Cualquier retroalimentación es bienvenida!
+- Do **not** modify or delete internal folders (resources, saves, DLLs, etc.)  
+- Locate the main executable: `EL ULTIMO MIEMBRO.exe`  
+- Double-click to start the game  
+
+<p align="center">
+  The game should launch immediately.
+  <br>
+  ⚠️ <b>Do not change the folder structure</b>, as the game loads its resources from these directories.
+</p>
+
+<h2 align="center">Minimum Requirements</h2>
+
+- Windows 10 / 11  
+- .NET 8.0
+- 2 GB RAM  
+- 220 MB free disk space  
+
+<h2 align="center">Gameplay Preview</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=oWEGBmD22DI">
+    <img 
+      src="https://img.youtube.com/vi/oWEGBmD22DI/0.jpg" 
+      alt="Watch on YouTube"
+      width="500"
+    >
+  </a>
+</p>
+
+<h2 align="center">Support & Feedback</h2>
+
+<p align="center">
+If you encounter bugs, issues, or want to suggest improvements, feel free to contact me through my GitHub profile or social media.
+<br><br>
+All feedback is welcome
+</p>
